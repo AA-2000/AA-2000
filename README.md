@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwin Abraham
-- 👀 I’m interested in programming in C, C++ and Python.
+- 👀 I’m interested in programming in JavaScript, C++ and Python.
 - 🌱 I’m currently learning C++.
 
 
