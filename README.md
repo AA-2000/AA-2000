@@ -10,7 +10,7 @@
 <!--
 Icons for for languages known
 -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/markdown.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/latex.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/markdown.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/latex.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
 
 
 
