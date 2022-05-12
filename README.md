@@ -6,7 +6,7 @@
 -  I like programming, especially in languages such as C and C++.
 -  I enjoy taking part in coding competitions and creating projects.
 -  I also post resources for some of the courses offered by IIT Bombay here.
--  To contact me, please drop me a mail at 210050023@iitb.ac.in
+-  To contact me, please mail me at 210050023@iitb.ac.in
 
 <!--
 Icons for for languages known
