@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
--  Hi, my name is Ashwin Abraham.
+-  Hello, my name is Ashwin Abraham.
 -  I’m currently studying Computer Science and Engineering in IIT Bombay.
 -  I’m interested in programming in Computer Science, Physics and Maths.
 -  I like programming, especially in languages such as C and C++.
