@@ -21,8 +21,8 @@ Icons for for languages known
 ![Prolog](https://img.shields.io/badge/prolog-%23008080.svg?style=for-the-badge&logo=prolog&logoColor=white)
 <br>
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
 
