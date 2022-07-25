@@ -8,6 +8,9 @@
 -  I also post resources for some of the courses offered by IIT Bombay here.
 -  To contact me, please mail me at 210050023@iitb.ac.in
 
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwinAbraham2021&theme=radical)
+
 <!--
 Icons for for languages known
 -->
